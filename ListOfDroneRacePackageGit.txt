@@ -5,7 +5,7 @@
 5 https://github.com/Raftak14/DroneRaceMaxP.git
 6
 7 https://github.com/PaulineRose07/DroneRace_Gossart_Pauline.git
-8
+8 https://github.com/tom-bandiera/TomsDroneRace.git
 9
 10 https://github.com/TerenceViseur/DroneRace_Terence.git
 11
