@@ -1,3 +1,6 @@
+
+https://github.com/EloiStree/2024_07_01_DroneEloiSampleMons.git
+https://github.com/OelectronO/DroneRacingMathys.git
 1 https://github.com/EloiStree/2024_07_01_DroneEloiSampleMons.git
 2 https://github.com/Girostef/DroneRace_Stef.git
 3 https://github.com/DavidFoot/DroneRace_Foot_David
@@ -9,3 +12,4 @@
 9
 10
 11
+
