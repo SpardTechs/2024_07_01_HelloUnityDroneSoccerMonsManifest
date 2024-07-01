@@ -1,2 +1,11 @@
-https://github.com/EloiStree/2024_07_01_DroneEloiSampleMons.git
-https://github.com/Girostef/DroneRace_Stef.git
+1 https://github.com/EloiStree/2024_07_01_DroneEloiSampleMons.git
+2 https://github.com/Girostef/DroneRace_Stef.git
+3 https://github.com/DavidFoot/DroneRace_Foot_David
+4
+5
+6
+7
+8
+9
+10
+11
